@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "juniperPort": 1,
+            "juniperMacCustomer": "ec:43:f6:04:ce:84",
+            "authTechnology": "IPoE Juniper",
+            "id": "9e2d844c-566c-e711-80cd-005056b419d0",
+            "name": null,
+            "typeName": "gm_subscription"
+        }
+    ]
+}
